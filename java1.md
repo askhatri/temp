@@ -1,6 +1,6 @@
-# Open the URL
+# Use w3school URL
 
-https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler
+[W3schools](https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler)
 
 # Use following code
 
