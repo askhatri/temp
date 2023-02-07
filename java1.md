@@ -2,7 +2,7 @@
 
 https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler
 
-# Replace following code
+# Use following code
 
 ```java
 import java.util.*;
@@ -35,3 +35,11 @@ class Customer {
 ```
 
 # Requirement
+
+* There is a class Customer. It has two fields "name" and "age".
+* I have added simple data with list of "customers".
+* We need to short this list by age of the customer.
+* We can use anything like lamda, streams, collections api, comparator, comparable.
+* We can write code anywhere this is file.
+* We can change anything in the file but it should compile and produce correct output.
+* The list size in output should be same as the list size in of "customers" (input). i.e. 7
