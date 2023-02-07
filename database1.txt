@@ -1,0 +1,22 @@
+table 1: employee
+        employee_id
+        manager_id
+        salary
+
+table 2: manager
+        manager_id
+        manager_name
+
+Write a query to get manager name and sum of salary of all employees reporting to him/her
+
+https://sqliteonline.com/
+create table employee (employee_id int, manager_id int, salary int);
+create table manager (manager_id int, manager_name varchar(100));
+insert into employee values (1,1,10000), (2,2,20000), (3,2, 10000), (4,4,15000), (5,4, 25000);
+insert into manager values (1, "m1"), (2, "m2"), (3, "m3"), (4, "m4");
+
+Output:
+m1    10000
+m2    30000
+m3    null
+m4    40000
