@@ -10,7 +10,7 @@
 * We can change anything in the file but it should compile and produce correct output.
 * The list size in output should be same as the list size in of "customers" (input). i.e. 7
 
-## Use following code
+## Copy following code in w3school
 
 ```java
 import java.util.*;
