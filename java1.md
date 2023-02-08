@@ -6,9 +6,8 @@
 * I have added simple data with list of "customers".
 * We need to short this list by age of the customer.
 * We can use anything like lamda, streams, collections api, comparator, comparable.
-* We can write code anywhere this is file.
-* We can change anything in the file but it should compile and produce correct output.
 * The list size in output should be same as the list size in of "customers" (input). i.e. 7
+* Fill free correct or fix anything in the initial version of code listed below.
 
 ## Copy following code in w3school
 
