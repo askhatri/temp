@@ -1,8 +1,8 @@
-# Sort customers by Age
+# Sort customers by Name
 
 ## Requirement
 
-* We need to short this list by age of the customer.
+* We need to short this list by name of the customer.
 * There is a class Customer. It has two fields "name" and "age".
 * I have added simple data with list of "customers".
 * We can use anything like lamda, streams, collections api, comparator, comparable.
@@ -17,14 +17,14 @@ import java.util.*;
 public class Main {
   public static void main(String[] args) {
     List<Customer> customers = new ArrayList<>();
-    customers.add(new Customer("B", 23));
+    customers.add(new Customer("H", 23));
     customers.add(new Customer("A", 21));
     customers.add(new Customer("F", 24));
     customers.add(new Customer("D", 25));
-    customers.add(new Customer("C", null));
-    customers.add(null);
-    customers.add(new Customer(null, 22));
-    // TODO: write the code to sort customers by age
+    customers.add(new Customer("G", 34));
+    customers.add(new Customer("B", 34));
+    customers.add(new Customer("E", 22));
+    // TODO: write the code to sort customers by name
     System.out.println(customers);
   }
 }
