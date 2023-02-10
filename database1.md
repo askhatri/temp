@@ -34,6 +34,7 @@ insert into manager values (1, "m1"), (2, "m2"), (3, "m3"), (4, "m4");
 
 ## Use Sqlite Online URL
 
+Right click --> Open in new tab. <br>
 <a href="https://sqliteonline.com/" target="_blank">Sqlite Online</a> - [https://sqliteonline.com/](https://sqliteonline.com/)
 
 ## Output:

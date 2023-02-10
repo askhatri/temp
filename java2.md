@@ -21,4 +21,5 @@ public class Main {
 
 ## Use w3school URL
 
+Right click --> Open in new tab. <br>
 <a href="https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler" target="_blank">W3schools</a> - [https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler](https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler)
