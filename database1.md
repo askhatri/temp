@@ -23,7 +23,7 @@ Those tables are linked by `manager_id` column.
 
 Write a query to get manager name and sum of salary of all employees reporting to him/her
 
-## Exectue the following SQL in Sqlite Online
+## Execute the following SQL in Sqlite Online
 
 ```sql
 create table employee (employee_id int, manager_id int, salary int);
