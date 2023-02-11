@@ -31,7 +31,7 @@ Department table:
   <td><b>department_name</b></td> </tr>
  <tr> <td> department1 </td> <td>Engineering</td> </tr>
  <tr> <td> department2 </td> <td>Sales</td> </tr>
- <tr> <td> department2 </td> <td>Finance</td> </tr>
+ <tr> <td> department3 </td> <td>Finance</td> </tr>
 </table>
 
 Employee table:
