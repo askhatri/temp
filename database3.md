@@ -44,7 +44,7 @@ Employee table:
   <td><b>employee_name</b></td> </tr>
  <tr> <td> 1 </td> 
    <td>Mike</td></tr>
- <tr> <td> 2 </td
+ <tr> <td> 2 </td>
    <td>Sam</td></tr>
  <tr> <td> 3 </td> <td>Rita</td> </tr>
 </table>
