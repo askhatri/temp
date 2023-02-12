@@ -67,6 +67,9 @@ Write a query to get employee name and department name.
 ## Execute the following SQL in Sqlite Online
 
 ```sql
+drop table Customers;
+drop table Orders;
+drop table Shippings;
 create table employee (employee_id int, employee_name varchar(100));
 create table department (department_id int, department_name varchar(100));
 create table ed_map (employee_id int, department_id int);
@@ -78,4 +81,15 @@ insert into ed_map values (1, 1), (2, 1), (2, 2), (3, 2), (3, 3);
 ## Use Sqlite Online URL
 
 Right click --> Open in new tab. <br>
-<a href="https://sqliteonline.com/" target="_blank">Sqlite Online</a> - [https://sqliteonline.com/](https://sqliteonline.com/)
+https://www.programiz.com/sql/online-compiler/
+
+# Sample output
+<table>
+ <tr> <td> <b> employee_name </b> </td>
+  <td><b>department_name</b></td> </tr>
+ <tr> <td> Mike </td> <td>Engineering</td> </tr>
+ <tr> <td> Sam </td> <td>Engineering</td> </tr>
+ <tr> <td> Sam </td> <td>Sales</td> </tr>
+ <tr> <td> Rita </td> <td>Sales</td> </tr>
+ <tr> <td> Rita </td> <td>Finance</td> </tr>
+</table>
