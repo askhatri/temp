@@ -8,7 +8,3 @@ https://www.programiz.com/sql/online-compiler/
 https://sqliteonline.com/
 
 https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor
-SELECT OrderID, round(sum(Quantity*Price),2) FROM [OrderDetails] o, [Products] p
-where o.ProductID = p.ProductID
-group by OrderID
-order by 2 desc
