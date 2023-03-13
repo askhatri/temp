@@ -1,5 +1,8 @@
 # Java sample code 1
 
+Let's review this code and check if there is any compilation error or compilation warning or not.
+If the code is correct the try to find output.
+
 ```java
 public class Main {
     public static void main(String[] args) {

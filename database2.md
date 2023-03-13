@@ -23,7 +23,7 @@ Those tables are linked by `department_id` column.
 
 ## Table data
 
-One employee can work for one or more department. One department can have one or more employees.
+One employee can work for one or more departments. One department can have one or more employees.
 
 Department table:
 <table>
